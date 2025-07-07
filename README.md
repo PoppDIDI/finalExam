@@ -127,11 +127,11 @@ Ce projet répond intégralement aux questions posées :
 
 ## Membres du groupe
 
--POPP Dietmar Ndremarolahy ;ISAIA 4 ;N°08 
--RANJASON Sitrakaniaina Brundy Joel ;ISAIA 4 ;N°09 
--RAKOTOFARA Nainantsalamana ;ISAIA 4 ;N°13 
--DIMBINIERANA Tolojanahary Nisandratampifaliana;ISAIA 4; N°16 
--ANDRIANASOLO Hasina Tovonambinintsoa ;IGGLIA 4;N°19 
--RAKOTOMANALINARIVO Andy Nantenaina ;IGGLIA 4; N°56
+- Membre 1 : POPP Dietmar Ndremarolahy ;ISAIA 4 ;N°08 
+- Membre 2 :RANJASON Sitrakaniaina Brundy Joel ;ISAIA 4 ;N°09 
+- Membre 3 :RAKOTOFARA Nainantsalamana ;ISAIA 4 ;N°13 
+- Membre 4 :DIMBINIERANA Tolojanahary Nisandratampifaliana;ISAIA 4; N°16 
+- Membre 5 :ANDRIANASOLO Hasina Tovonambinintsoa ;IGGLIA 4;N°19 
+- Membre 6 :RAKOTOMANALINARIVO Andy Nantenaina ;IGGLIA 4; N°56
 
 
